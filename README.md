@@ -1,10 +1,10 @@
-# website
+# WEBSITE
 <html lang="en">
  <head>
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
   <title>
-   IoTech
+    IoTech
   </title>
   <script src="https://cdn.tailwindcss.com">
   </script>
@@ -38,10 +38,10 @@
      </i>
     </div>
     <a class="hover:underline" href="#">
-     My projects
+     Our Results
     </a>
     <a class="hover:underline" href="#">
-     MATLAB Sheet
+     DSA Sheet
     </a>
     <a class="hover:underline" href="#">
      Log in
@@ -50,7 +50,21 @@
      Sign up
     </button>
    </nav>
- 
+  </header>
+  <main class="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center md:items-start gap-10 md:gap-20 mt-20">
+   <section class="max-w-xl flex flex-col space-y-4 md:space-y-6">
+    <h2 class="text-2xl md:text-3xl font-semibold text-black leading-tight">
+     Learn &amp; become the
+    </h2>
+    <h3 class="text-blue-700 text-2xl md:text-3xl font-semibold leading-tight">
+     Top 1% software developer
+    </h3>
+    <p class="text-base md:text-lg text-black">
+     Sigma - DSA + Web Develop|
+    </p>
+    <button class="bg-blue-700 text-white rounded-md px-6 py-3 w-max font-semibold flex items-center space-x-2">
+     <span class="text-yellow-400 font-bold">
+      Ultimate
      </span>
      <span>
       Placement Solution

@@ -1,4 +1,4 @@
-'''project name fibbonacci series
+#project name fibbonacci series
 def fib(n):
  i=1
  Ft=0
